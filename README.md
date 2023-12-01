@@ -1,4 +1,4 @@
-วิธีการสร้าง model ทำนาย power ในด้านต่อไป
+วิธีการสร้าง model ทำนาย power ในวันต่อไป
 1. import library ที่จำเป็น
 2. อ่าน data จาก file csv
 3. ทำ data cleansing โดยการ
